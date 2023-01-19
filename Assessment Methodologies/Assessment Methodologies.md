@@ -52,7 +52,7 @@ Source code (it may be hidden things)
 
 Sitemap.xml/sitemaps.xml (facilitates the index of the web for the browser)
 
-whois xpáginaweb (to extract information of the website: when it was registered, who owns it, what hosting company were registered through, CIDR =network range; Orgname= name of the organization)
+whois xwebpage (to extract information of the website: when it was registered, who owns it, what hosting company were registered through, CIDR =network range; Orgname= name of the organization)
 
 Netcraft.com > services > internet data mining > internet research tools (combine whois, if there are SSL or TLS, the web technologies of the website, the name servers)
 
