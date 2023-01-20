@@ -78,7 +78,7 @@ wafw00f xpage.com (can add the -a parameter)
 
 In the webpage may be information.
 
-theHarvester -d xpage.com -b google,linkedin,yahoo,dnsdumpster,duckduckgo,crtsh (search for emails doing OSINT, found mails can be used to search on leaked passwords databases like the below, because sometimes they use to reutilice passwords).
+theHarvester -d xpage.com -b google,linkedin,yahoo,dnsdumpster,duckduckgo,crtsh (search for emails doing OSINT, found mails can be used to search on leaked passwords databases like the below, because sometimes the users use to reutilice passwords).
 
 [HaveIbeenPwned](https://haveibeenpwned.com/)
 
