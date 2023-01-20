@@ -32,7 +32,7 @@ nc IPobj 22 (the SSH service tells you the O.S.)
 
   
 
-<font color="yellow">Identificar puertos abiertos y servicios de un objetivo</font>
+<font color="yellow">Identify open ports & services from an objective</font>
 
 nmap -sS -p- -n -Pn --open IPobj
 
