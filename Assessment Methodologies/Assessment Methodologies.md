@@ -16,7 +16,7 @@ msf: db_autopwn making db_nmap before or analyze command and then vuln
 
 
 
-<font color="yellow">Identificar el O.S de un objetivo:</font>
+<font color="yellow">Identify the OS of an objective:</font>
 
 nmap -O
 
